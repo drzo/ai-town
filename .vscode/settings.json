@@ -8,7 +8,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -17,5 +17,13 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "typescript.preferences.importModuleSpecifierEnding": "auto",
-  "javascript.preferences.importModuleSpecifierEnding": "auto"
+  "javascript.preferences.importModuleSpecifierEnding": "auto",
+  "copy4ai.compressCode": false,
+  "copy4ai.enableTokenCounting": true,
+  "copy4ai.llmModel": "claude-3-5-sonnet-20240620",
+  "chat.commandCenter.enabled": true,
+  "chat.renderRelatedFiles": true,
+  "chat.tools.autoApprove": true,
+  "terminal.explorerKind": "both",
+  "terminal.integrated.accessibleViewFocusOnCommandExecution": true
 }
