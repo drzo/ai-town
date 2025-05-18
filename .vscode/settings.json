@@ -25,5 +25,6 @@
   "chat.renderRelatedFiles": true,
   "chat.tools.autoApprove": true,
   "terminal.explorerKind": "both",
-  "terminal.integrated.accessibleViewFocusOnCommandExecution": true
+  "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+  "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }
